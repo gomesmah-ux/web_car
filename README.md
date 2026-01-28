@@ -28,5 +28,3 @@ plotly==5.0.0
 
 # .gitinore
 
-# .gitinore
-
